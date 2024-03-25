@@ -88,14 +88,14 @@ function App() {
                 </ProtectedRoute>
               }
             />
-            {/* <Route
+            <Route
               path="/notification"
               element={
                 <ProtectedRoute>
                   <NotificationPage />
                 </ProtectedRoute>
               }
-            /> */}
+            />
             <Route
               path="/login"
               element={
