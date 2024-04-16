@@ -50,7 +50,7 @@ const Layout = ({ children }) => {
         <div className="layout">
           <div className="sidebar">
             <div className="logo">
-              <h6>AppointDoc</h6>
+              <h6>DocAppointment</h6>
               <hr />
             </div>
             <div className="menu">
